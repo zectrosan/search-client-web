@@ -7,10 +7,11 @@ html, body, #root, .App {
   height: 100%;
 }
 
-.fh {
+.page, .fh {
   height: 100%;
 }
 
 .searchBoxContainer {
   background: #f0f0f0;
 }
+
